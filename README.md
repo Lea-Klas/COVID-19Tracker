@@ -2,13 +2,12 @@
 # COVID-19 Tracker
 
 ## Introduction
-In this project, I developed an interactive COVID-19 Dashboard using Tableau. The COVID-19 Tracker provides insights into the evolution of several key pandemic metrics from 2020 to 2024 across different regions. The primary goal of this project was to get familiar with Tableau and enhance my proficiency in SQL. The data used in this project is sourced from Our World in Data. The dataset originally provides 67 data fields, but I reduced the dataset to only include the variables necessary for my analysis, ending up with 15 variables.
+In this project, I developed an interactive COVID-19 Dashboard using Tableau. The COVID-19 Tracker provides insights into the evolution of several key pandemic metrics from 2020 to 2024 across different regions. The primary goal of this project was to get familiar with Tableau and enhance my proficiency in SQL. The data used in this project is sourced from Our World in Data. Get the data here: https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv. The dataset originally provides 67 data fields, but I reduced the dataset to only include the variables necessary for my analysis, ending up with 15 variables.
 
 ## Files
 - `queries.sql`: The file containing various SQL queries for the analysis.
-- `covid_data.csv`: The dataset containing information about COVID-19 metrics from 2020-2024.
 - `COVID-19Tracker_Dashboard.png`: The PNG file containing the Tableau Dashboard.
-
+  
 ## Features
 - SQL quering
 - Designing an interactive Tableau Dashboard
